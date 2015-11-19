@@ -1,0 +1,15 @@
+{
+  "name": "LuaCompiler",
+  "version": "1.1.0",
+  "description": "minify everything lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "luamin": "^0.2.8",
+    "node-dir": "^0.1.8"
+  }
+}
