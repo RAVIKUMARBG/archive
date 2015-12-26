@@ -1,0 +1,14 @@
+{
+  "name": "srcds-restart",
+  "version": "1.0.0",
+  "description": "Restart a SRCDS when it crashes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SwadicalRag",
+  "license": "ISC",
+  "dependencies": {
+    "srcds-info": "^0.1.1"
+  }
+}
